@@ -17,7 +17,8 @@ public class BootCrudApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(BootCrudApplication.class, args);
-		System.out.println("wellcome to Bootcrud operation ");
+		System.out.println("wellcome to Bootcrud operation Rashwath ");
+		System.out.println("wellcome to Bootcrud operation Rashwath ");
 	}
 
 }
